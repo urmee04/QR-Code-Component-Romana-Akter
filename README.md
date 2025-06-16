@@ -2,7 +2,7 @@
 
 ### First Challenge – QR Code Component
 
-This project is a solution to the [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) which focuses on practicing HTML & CSS skills by recreating a responsive and interactive blog preview card component based on a Figma design.
+This project is a solution to the [Frontend Mentor - QR Code Componet Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) which focuses on practicing HTML & CSS skills by recreating a responsive qr code component based on a Figma design.
 
 #### Objectives
 
